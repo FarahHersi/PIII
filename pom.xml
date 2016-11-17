@@ -25,5 +25,6 @@
     </profiles>
   <modules>
     <module>MusicTableViewFxml</module>
+    <module>MyGuiExperiment42</module>
   </modules>
 </project>
